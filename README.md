@@ -4,4 +4,4 @@ Una aplicación que te ayuda a organizar tus notas por cada ventana que utilizes
 y guardan su archivo raápidamente en alguna carpeta, y que después se olvidan de donde lo guardaron.
 
 ## Instalación
-Ve a la pestaña de "Releases" o da click aquí
+Ve a la pestaña de "Releases" o da click (aquí)[https://google.com]
