@@ -21,25 +21,26 @@ En Linux no se requiere ejecutar con "sudo", siempre y cuando se instale la apli
 
 ### Pantalla principal
 
-![Pantalla principal](https://github.com/user-attachments/assets/be8b85d0-376d-4773-9fb4-0c60a4f75408)
+![Pantalla principal](images/Pantalla%20principal.png)
 
 Aquí podrás ver todas las ventanas (junto con su ejecutable y su ruta) que has abierto al menos una vez.
 
-Para abrir las notas asociadas a determinada aplicación, primero expande la lista de ventanas de un ejecutable. Se puede abrir de dos maneras:
-
-1. Doble click al elemento de ventana.
-2. Click al elemento de ventana y darle click al botón de documento a la derecha
+Para abrir las notas asociadas a determinada aplicación, primero expande la lista de ventanas de un ejecutable con el botón '+'. La pantalla debería verse así:
 
 ![Ejecutables expandidos](images/Pantalla%20principal%20(expansion).png)
+
+En esta pantalla podrás buscar aplicaciones que pertenezcan solo al programa al que pertenecen.
+
+Se puede abrir las notas de una ventana de dos maneras:
+
+1. Doble click al elemento.
+2. Click al elemento para seleccionarla y darle click al botón de documento a la derecha
 
 Al estar seleccionado:
 ![Elemento de ventana](images/Pantalla%20principal%20(elemento%20selec).png)
 
-Los ejecutables se caracterizan por el ícono binario, mientras que las ventanas son distinguidas por un logo de ventana estilo mac.
+Los ejecutables se caracterizan por el ícono binario, mientras que las ventanas son distinguidas por un logo de ventana estilo Mac OS.
 También se cuenta con el botón "Ver notas comunes", por si necesitas escribir notas que no estén asociadas a una ventana o ejecutable en específico.
-
-Presiona el ícono de engranaje para acceder a la configuración.
-Presiona el ícono de enchufe para apagar el servidor de escucha. Esto implica que al apagarlo, se cerrará la aplicación y dejará de funcionar hasta que la vuelvas a abrir.
 
 ### Pantalla de notas
 
@@ -47,6 +48,8 @@ Presiona el ícono de enchufe para apagar el servidor de escucha. Esto implica q
 
 En esta pantalla podrás ver todas tus notas asociadas a una aplicación. Para ver una nota o editarla, dale doble click al elemento, o selecciona un elemento y dale click al lápiz.
 También puedes borrar la nota al tenerla seleccionada. Dale click al botón de la basura rojo a la derecha. Si deseas marcar una nota como completada, use el recuadro a la izquierda de la nota. La nota se moverá al principio o al final de la lista, dependiendo de los filtros activos (lea más adelante).
+
+También puedes cambiar de contexto de ventana fácilmente presionando el ícono de menú de arriba a la izquierda. Podrás ver las ventanas que tengan notas, siempre y cuando pertenezcan al mismo ejecutable. Si quieres cambiar hacia otra ventana con distinto ejecutable, tendrás que regresar a la página principal.
 
 ![Elemento de nota seleccionado](images/Pantalla%20Notas%20(elemento%20selec).png)
 
@@ -70,16 +73,16 @@ Alternativamente, existe el orden personalizado, donde tu puedes crear el orden 
 
 ### Editar una nota
 
-![edición](https://github.com/user-attachments/assets/d48a490e-cba8-4a51-9ad9-69ba6f87b910)
+![edición](images/Pantalla%20edicion.png)
 
 Aquí es donde editas una nota.
-Las notas deben tener obligatoriamente un título, pero el contenido es opcional. Para guardar la nota, dale click al botón "Guardar" o presiona Ctrl + S. Al guardar la nota, se cerrará auomáticamente la ventana.
+Las notas deben tener obligatoriamente un título, pero el contenido es opcional. Para guardar la nota, abre el menú "Archivo" y dale click a la opción guardar,  o presiona Ctrl + S.
 
-Puedes salir de la ventana presionando Esc.
+Puedes salir de la ventana presionando Shift + Esc.
 
 ### Configuración
 
-![image](https://github.com/user-attachments/assets/45717f01-57ca-4c1c-a4ff-8b633afc0d0d)
+![configuracion](images/Pantalla%20Configuración.png)
 
 En esta pantalla podrás cambiar los parámetros de la aplicación, como el tema, el puerto de ejecución del servidor y el atajo para abrir la aplicación.
 El tema por defecto es el tema claro, y puedes cambiarlo a modo oscuro.
