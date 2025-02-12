@@ -7,8 +7,11 @@
 
 ## Novedades
 
-> - Ahora la aplicación tiene un actualizador automático.
-> - Se implementaron barras de navegación superiores para una mejor experiencia de usuario al no tener botones intrusivos
+> - Mejorada la interfaz de ejecutables y aplicaciones.
+> - Ahora puedes cambiar entre las notas de las aplicaciones que pertenezcan al mismo ejecutable en la pantalla de notas
+> - Agregada ventana de bienvenida al abrir por primera vez la aplicación
+> - Corregido error donde crasheaba la aplicación al salir, debido al actualizador.
+> - Corregido error visual donde no se guardaba el orden de nota al arrastrar hacia arriba o abajo.
 
 ## Linux - Debian o derivados con X11
 
